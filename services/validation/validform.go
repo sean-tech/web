@@ -1,6 +1,6 @@
 package validation
 
-import "sean.env/logging"
+import "github.com/sean-tech/web/logging"
 
 func FormValid(form interface{}) error {
 	// form valid
